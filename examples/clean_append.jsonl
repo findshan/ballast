@@ -1,0 +1,5 @@
+{"prompt": "SYSTEM: You are a helpful coding agent.\nTOOLS: read_file, write_file, grep\n\nturn 1: ...", "turn": 0}
+{"prompt": "SYSTEM: You are a helpful coding agent.\nTOOLS: read_file, write_file, grep\n\nturn 1: ...\nturn 2: ...", "turn": 1}
+{"prompt": "SYSTEM: You are a helpful coding agent.\nTOOLS: read_file, write_file, grep\n\nturn 1: ...\nturn 2: ...\nturn 3: ...", "turn": 2}
+{"prompt": "SYSTEM: You are a helpful coding agent.\nTOOLS: read_file, write_file, grep\n\nturn 1: ...\nturn 2: ...\nturn 3: ...\nturn 4: ...", "turn": 3}
+{"prompt": "SYSTEM: You are a helpful coding agent.\nTOOLS: read_file, write_file, grep\n\nturn 1: ...\nturn 2: ...\nturn 3: ...\nturn 4: ...\nturn 5: ...", "turn": 4}
